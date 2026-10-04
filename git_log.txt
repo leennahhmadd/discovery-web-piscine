@@ -1,5 +1,0 @@
-commit c6a8d7376d7e497c898cbb6a2790cc16786b54b1
-Author: leennahhmadd <olaimatleen@gmail.com>
-Date:   Sun Oct 4 08:05:58 2026 -0400
-
-    Add hello.txt
